@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1393364112 source:/home/turupawn/Projects/Codeblocks/ExamenLab/main.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	<string>
+	"Pelotita.h"
+	"Lista.h"
+
+1393010153 source:/home/turupawn/Projects/Codeblocks/ExamenLab/Pelotita.cpp
+	"Pelotita.h"
+
+1393012327 /home/turupawn/Projects/Codeblocks/ExamenLab/Pelotita.h
+	"SDL/SDL.h"
+
+1393012282 source:/home/turupawn/Projects/Codeblocks/ExamenLab/Lista.cpp
+	"Lista.h"
+
+1393011524 /home/turupawn/Projects/Codeblocks/ExamenLab/Lista.h
+	"Pelotita.h"
+
